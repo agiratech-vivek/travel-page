@@ -1,3 +1,7 @@
 Hi this is Vivek.
+<<<<<<< HEAD
 
 This is added by master branch.
+=======
+This is new line added in 2nd Feature.
+>>>>>>> 5cc6f1f (added new line in GitTest)
